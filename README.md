@@ -19,7 +19,7 @@ How to Use/Setup ?
   The easiest way to use Java Vulnerable is using Docker which set up everything for you with 1 command line
 
   Steps:
-
+     
      1. Install Docker: https://docs.docker.com/engine/installation/ 
      2. Install docker-compose: https://docs.docker.com/compose/install/
      3. Inside this directory, run `sudo docker-compose up` and wait untill everything is configured for you.
