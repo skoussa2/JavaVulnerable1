@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-    web: java $JAVA_OPTS -jar  --port 8080 target/*.war
+    web: java $JAVA_OPTS -jar  --port 8880 target/*.war
